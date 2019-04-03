@@ -2,6 +2,15 @@
 
 Code for Zhang & Gläscher (in prep) A network supporting social influences in human decision-making.
 
+
+This repository contains
+```
+├─ code                 # Matlab & R code to run the analyses
+├─ data                 # raw behavioral data
+```
+
+
+
 ### LICENSE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
