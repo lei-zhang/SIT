@@ -2,6 +2,7 @@
 
 Code for Zhang & Gläscher (in prep) A network supporting social influences in human decision-making.
 
+Note: contents are under construction. Will be updated soon.
 
 This repository contains
 ```
