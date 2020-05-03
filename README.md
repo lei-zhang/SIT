@@ -1,33 +1,54 @@
-# zhang_glaescher_socialinfluence
+# Social influence task (SIT)
 
-Code for Zhang & Gläscher (in prep) A network supporting social influences in human decision-making.
+**Code and data accompanying the paper <br />
+Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** <br />
+[DOI: 10.1101/551614](https://doi.org/10.1101/551614).
 
-Note: contents are under construction. Will be updated soon.
+___
 
-This repository contains
+This repository contains:
 ```
-├─ code                 # Matlab & R code to run the analyses
-├─ data                 # raw behavioral data
+root
+  ├─ code       # Matlab & R code to run the analyses and produce figures
+  ├─ data       # preprocessed behavioral data & fMRI BOLD time series data
 ```
 
+(Some contents are under construction. Please stay tuned and comeback later.)
+**Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
+**Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
+**Note 3**: to reproduce the Matlab figures, you may need the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
 
+## Behavioral analyses
+* Figure 1B: 
+* Figure 1D-E: 
+* Figure 1F-G: 
+
+## Computational modeling
+* Figure 2E-H: 
+* Figure 2I-J: 
+
+## fMRI time series analyses
+* Figure 3D-F: [pe_time_series_plot.m](code/fMRI/pe_time_series_plot.m)
+* core function: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
+* permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
+
+## fMRI connectivity analyses
+* Figure 4B-C:
+* Figure 4D:
+* Figure 4F-I:
+
+___
+
+For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at)).
+
+[![@lei_zhang@lz](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/lei_zhang_lz)
+
+Thanks to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+___
 
 ### LICENSE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license (CC BY-NC 4.0) gives you the right to re-use and adapt, as long as you note any changes you made, and provide a link to the original source. Read [here](https://creativecommons.org/licenses/by-nc/4.0/) for more details. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Cc-by-nc_icon.svg)
