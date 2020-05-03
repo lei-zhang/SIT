@@ -1,19 +1,19 @@
 # Social influence task (SIT)
 
-**Code and data accompanying the paper <br />
+**Code and data accompanying the paper: <br />
 Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** <br />
-[DOI: 10.1101/551614](https://doi.org/10.1101/551614).
+[DOI: 10.1101/551614](https://www.biorxiv.org/content/10.1101/551614v3).
 
 ___
 
 This repository contains:
 ```
 root
-  ├─ code       # Matlab & R code to run the analyses and produce figures
-  ├─ data       # preprocessed behavioral data & fMRI BOLD time series data
+  ├─ code       # Matlab & R code to run analyses and produce figures
+  ├─ data       # Preprocessed behavioral data & fMRI BOLD time series data
 ```
 
-(Some contents are under construction. Please stay tuned and comeback later.)
+(Some contents are under construction. Please stay tuned and comeback later.) <br />
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
 **Note 3**: to reproduce the Matlab figures, you may need the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
@@ -39,9 +39,7 @@ root
 
 ___
 
-For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at)).
-
-[![@lei_zhang@lz](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/lei_zhang_lz)
+For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at)), or [@lei_zhang@lz](https://twitter.com/lei_zhang_lz).
 
 Thanks to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
