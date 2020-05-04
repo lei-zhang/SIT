@@ -13,7 +13,7 @@ root
   ├─ data       # Preprocessed behavioral data & fMRI BOLD time series data
 ```
 
-(Some contents are under construction. Please stay tuned and comeback later.) <br />
+(Most contents are under construction. Please stay tuned and come back later.) <br />
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
 **Note 3**: to reproduce the Matlab figures, you may need the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
