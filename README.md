@@ -9,8 +9,12 @@ ___
 This repository contains:
 ```
 root
-  ├─ code       # Matlab & R code to run analyses and produce figures
-  ├─ data       # Preprocessed behavioral data & fMRI BOLD time series data
+ ├── data # Preprocessed behavioral data & fMRI BOLD time series data
+ │    ├── behavioral
+ │    ├── fMRI
+ ├── code # Matlab & R code to run analyses and produce figures
+ │    ├── behavioral
+ │    ├── fMRI
 ```
 
 (Most contents are under construction. Please stay tuned and come back later.) <br />
