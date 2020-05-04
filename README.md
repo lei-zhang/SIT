@@ -43,7 +43,7 @@ root
 
 ___
 
-For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at)), or [@lei_zhang@lz](https://twitter.com/lei_zhang_lz).
+For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at), or [@lei_zhang@lz](https://twitter.com/lei_zhang_lz)).
 
 Thanks to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
