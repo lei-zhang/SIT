@@ -44,9 +44,9 @@ ___
 * Figure 2I-J: [plot_param_and_behav.m](code/behavioral/plot_param_and_behav.m)
 * Figure 3A: [plot_dec_var_corr.m](code/behavioral/plot_dec_var_corr.m)
 
-## fMRI time series analyses
-* Figure 3D-F: [plot_time_series_NAcc_pe.m](code/fMRI/plot_time_series_NAcc_pe.m)
-* core function: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
+## fMRI BOLD time-series analyses
+* Figure 3F: [plot_time_series_NAcc_pe.m](code/fMRI/plot_time_series_NAcc_pe.m)
+* core function for the time-series analyses: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
 ## fMRI connectivity analyses
