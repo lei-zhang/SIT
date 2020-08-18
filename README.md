@@ -40,8 +40,8 @@ ___
 * Figure 1H-I: [plot_main_behav_between_trial.m](code/behavioral/plot_main_behav_between_trial.m)
 
 ## Computational modeling
-* Figure 2E-H: 
-* Figure 2I-J: 
+* Figure 2E-H: [plot_m6b_winning.r.m](code/behavioral/plot_m6b_winning.r)
+* Figure 2I-J: [plot_param_and_behav.m](code/behavioral/plot_param_and_behav.m)
 
 ## fMRI time series analyses
 * Figure 3D-F: [pe_time_series_plot.m](code/fMRI/pe_time_series_plot.m)
