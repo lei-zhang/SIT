@@ -155,4 +155,6 @@ set(gca,'box','off' ,'TickDir','out', ...
         'linewidth', 3, 'FontSize', afs)
 a = get(gca, 'YAxis'); 
 a.Color = [1 1 1]; % make y-axis invisible
+
+% end of script
     

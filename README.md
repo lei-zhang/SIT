@@ -6,14 +6,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SysNeuroHamburg?label=%40SysNeuroHamburg)](https://twitter.com/SysNeuroHamburg)
 [![Lab2 Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
-**Code and data for the social influence task (SIT), accompanying the paper: <br />
-Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, *6*, eabb4159 <br />
+Code and data for the **social influence task (SIT)**, accompanying the paper: <br />
+**Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, **6**, eabb4159. <br />
 [DOI: 10.1126/sciadv.abb4159](https://advances.sciencemag.org/content/6/34/eabb4159).
+___
 
-**Outreach**
+**Outreach:**
 * A **1.25-min #SciComm** video in lay English is available on [YouTube]() and [BiliBili]().
 * A **1-hour talk** on this paper is available on [YouTube](https://youtu.be/PQe9bv07Qmc) and [BiliBili](https://www.bilibili.com/video/BV15K411n7eN/). The slides deck is available [here](presentation_zhang_gläscher_2020.pdf).
-* Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m03s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
+* Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m04s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
 ___
 
 **This repository contains:**
@@ -30,7 +31,7 @@ root
 (Most contents are under construction. Please stay tuned and come back later.) <br />
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
-**Note 3**: to reproduce the Matlab figures, you may need the [NAN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
+**Note 3**: to reproduce the Matlab figures, you may need the [NaN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
 
 ## Behavioral analyses
 * Figure 1B: [plot_single_sub_data.m](code/behavioral/plot_single_sub_data.m)
