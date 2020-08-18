@@ -42,10 +42,10 @@ ___
 ## Computational modeling
 * Figure 2E-H: [plot_m6b_winning.r](code/behavioral/plot_m6b_winning.r)
 * Figure 2I-J: [plot_param_and_behav.m](code/behavioral/plot_param_and_behav.m)
+* Figure 3A: [plot_dec_var_corr.m](code/behavioral/plot_dec_var_corr.m)
 
 ## fMRI time series analyses
-* Figure 3A: [plot_dec_var_corr.m](code/behavioral/plot_dec_var_corr.m)
-* Figure 3D-F: [pe_time_series_plot.m](code/fMRI/pe_time_series_plot.m)
+* Figure 3D-F: [plot_time_series_NAcc_pe.m](code/fMRI/plot_time_series_NAcc_pe.m)
 * core function: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
