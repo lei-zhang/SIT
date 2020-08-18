@@ -12,7 +12,7 @@ Code and data for the **social influence task (SIT)**, accompanying the paper: <
 ___
 
 **Outreach:**
-* A **1.25-min #SciComm** video in lay English is available on [YouTube]() and [BiliBili](links to be updated) (links to be updated).
+* A **1.25-min #SciComm** video in lay English is available on [YouTube]() and [BiliBili]() (links to be updated).
 * A **1-hour talk** on this paper is available on [YouTube](https://youtu.be/PQe9bv07Qmc) and [BiliBili](https://www.bilibili.com/video/BV15K411n7eN/). The slides deck is available [here](presentation_zhang_gläscher_2020.pdf).
 * Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m04s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
 ___
@@ -28,10 +28,10 @@ root
  │    ├── fMRI
 ```
 
-(Most contents are under construction. Please stay tuned and come back later.) <br />
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
 **Note 3**: to reproduce the Matlab figures, you may need the [NaN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
+___
 
 ## Behavioral analyses
 * Figure 1B: [plot_single_sub_data.m](code/behavioral/plot_single_sub_data.m)
