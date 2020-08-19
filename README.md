@@ -1,4 +1,4 @@
-# SIT <img src="https://github.com/lei-zhang/SIT/raw/master/network_demo.jpg" align="right" width="200px">
+# SIT <img src="https://github.com/lei-zhang/SIT/raw/master/network_demo.jpg" align="right" width="300px">
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
 [![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
@@ -9,8 +9,7 @@
 [![Lab2 Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
 Code and data for the **social influence task (SIT)**, accompanying the paper: <br />
-**Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, **6**, eabb4159. <br />
-[DOI: 10.1126/sciadv.abb4159](https://advances.sciencemag.org/content/6/34/eabb4159).
+**Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, **6**, eabb4159. [DOI: 10.1126/sciadv.abb4159](https://advances.sciencemag.org/content/6/34/eabb4159).
 ___
 
 **Outreach:**
