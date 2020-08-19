@@ -23,9 +23,10 @@ root
  ├── data # Preprocessed behavioral data & fMRI BOLD time series data
  │    ├── behavioral
  │    ├── fMRI
- ├── code # Matlab & R code to run analyses and produce figures
+ ├── code # Matlab, R, & Stan code to run analyses and produce figures
  │    ├── behavioral
  │    ├── fMRI
+ │    ├── stanmodel
 ```
 
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
