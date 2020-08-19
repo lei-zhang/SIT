@@ -19,6 +19,7 @@ ___
 * A **1.25-min #SciComm** video in lay English is available on [YouTube]() and [BiliBili]() (links to be updated).
 * A **1-hour talk** on this paper is available on [YouTube](https://youtu.be/PQe9bv07Qmc) and [BiliBili](https://www.bilibili.com/video/BV15K411n7eN/). The slides deck is available [here](presentation_zhang_gläscher_2020.pdf).
 * Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m04s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
+* Media coverage (selection): [COSMOS](https://cosmosmagazine.com/health/body-and-mind/sometimes-we-need-to-learn-from-others/)
 ___
 
 **This repository contains:**
@@ -53,7 +54,7 @@ ___
 \* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures.
 
 ## fMRI BOLD time-series analyses
-* Figure 3F: [plot_time_series.m](code/fMRI/plot_time_series.m)\*
+* Figure 3D-F, 4D: [plot_time_series.m](code/fMRI/plot_time_series.m)\*
 * core function for the time-series analyses: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
