@@ -51,7 +51,7 @@ ___
 * Figure 2I-J: [plot_param_and_behav.m](code/behavioral/plot_param_and_behav.m)
 * Figure 3A: [plot_dec_var_corr.m](code/behavioral/plot_dec_var_corr.m)
 
-\* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures (recipient of the SIPS Commendations, Society for the Improvement of Psychological Science).
+\* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures (recipient of the 2020 **SIPS Commendation**, Society for the Improvement of Psychological Science).
 
 ## fMRI BOLD time-series analyses
 * Figure 3D-F, 4D: [plot_time_series.m](code/fMRI/plot_time_series.m)\*
