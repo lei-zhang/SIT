@@ -1,3 +1,5 @@
+# SIT <img src="https://github.com/lei-zhang/SIT/raw/master/network_demo.jpg" align="right" width="200px">
+
 [![GitHub repo size](https://img.shields.io/github/repo-size/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
 [![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
 [![DOI](https://img.shields.io/badge/DOI-10.1126%2Fsciadv.abb4159-informational)](https://advances.sciencemag.org/content/6/34/eabb4159)
@@ -46,7 +48,7 @@ ___
 * Figure 2I-J: [plot_param_and_behav.m](code/behavioral/plot_param_and_behav.m)
 * Figure 3A: [plot_dec_var_corr.m](code/behavioral/plot_dec_var_corr.m)
 
-\* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures
+\* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures.
 
 ## fMRI BOLD time-series analyses
 * Figure 3F: [plot_time_series_NAcc_pe.m](code/fMRI/plot_time_series_NAcc_pe.m)
