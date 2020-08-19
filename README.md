@@ -57,8 +57,10 @@ ___
 * core function for the time-series analyses: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
+\* See our [tutorial paper (Zhang & Lengersdorff et al., 2020)](https://doi.org/10.1093/scan/nsaa089) regarding the decomposition of the prediction error signal.
+
 ## fMRI connectivity analyses
-* Figure 4C,G,I: [plot_connectivity_strength.m](code/fMRI/plot_connectivity_strength.m)a
+* Figure 4C,G,I: [plot_connectivity_strength.m](code/fMRI/plot_connectivity_strength.m)
 
 ___
 
