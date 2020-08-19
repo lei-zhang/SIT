@@ -53,18 +53,18 @@ ___
 \* Interested in how to code computational models in Stan? Feel free to check out my [BayesCog](https://github.com/lei-zhang/BayesCog_Wien) lectures.
 
 ## fMRI BOLD time-series analyses
-* Figure 3F: [plot_time_series_NAcc_pe.m](code/fMRI/plot_time_series_NAcc_pe.m)
+* Figure 3F: [plot_time_series.m](code/fMRI/plot_time_series.m)\*
 * core function for the time-series analyses: [ts_corr_basic.m](code/fMRI/ts_corr_basic.m) --> relies on [normalise.m](code/normalise.m)
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
-\* See our [tutorial paper (Zhang & Lengersdorff et al., 2020)](https://doi.org/10.1093/scan/nsaa089) regarding the decomposition of the prediction error signal.
+\* See our [tutorial paper (Zhang & Lengersdorff et al., 2020)](https://doi.org/10.1093/scan/nsaa089) for more details regarding the justification/solidification of prediction error signals.
 
 ## fMRI connectivity analyses
 * Figure 4C,G,I: [plot_connectivity_strength.m](code/fMRI/plot_connectivity_strength.m)
 
 ___
 
-For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at), or [@lei_zhang@lz](https://twitter.com/lei_zhang_lz)).
+For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at), or [@lei_zhang_lz](https://twitter.com/lei_zhang_lz)).
 
 Thanks to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [shields.io](https://shields.io/).
 
