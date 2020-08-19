@@ -8,8 +8,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SysNeuroHamburg?label=%40SysNeuroHamburg)](https://twitter.com/SysNeuroHamburg)
 [![Lab2 Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
-Code and data for the **social influence task (SIT)**, accompanying the paper: <br />
-**Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, **6**, eabb4159. [DOI: 10.1126/sciadv.abb4159](https://advances.sciencemag.org/content/6/34/eabb4159).
+
+Code and data for the **social influence task (SIT)**, accompanying the paper: 
+
+**Zhang, L. & Gläscher, J. (2020). A brain network supporting social influences in human decision-making.** *Science Advances*, **6**, eabb4159. <br />
+[DOI: 10.1126/sciadv.abb4159](https://advances.sciencemag.org/content/6/34/eabb4159).
 ___
 
 **Outreach:**
@@ -32,7 +35,7 @@ root
 
 **Note 1**: to properly run all scripts, you may need to set the root of this repository as your work directory. <br />
 **Note 2**: to properly run all modeling analyses, you may need to install the [{RStan} package](https://mc-stan.org/users/interfaces/rstan.html) in R. <br />
-**Note 3**: to reproduce the Matlab figures, you may need the [NaN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
+**Note 3**: to reproduce the Matlab figures, you may need the [NaN Suite](https://www.mathworks.com/matlabcentral/fileexchange/6837-nan-suite), the [color brewer](https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab) toolbox, the [niceGroupPlot kit](https://github.com/BeckyLawson/niceGroupPlot), and the [offsetAxes](https://github.com/anne-urai/Tools/blob/master/plotting/offsetAxes.m) function. 
 ___
 
 ## Behavioral analyses
@@ -55,9 +58,8 @@ ___
 * permutation test: [ts_perm_test.m](code/fMRI/ts_perm_test.m)
 
 ## fMRI connectivity analyses
-* Figure 4B-C:
+* Figure 4C,G,I:
 * Figure 4D:
-* Figure 4F-I:
 
 ___
 
