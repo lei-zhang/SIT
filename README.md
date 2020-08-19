@@ -1,4 +1,4 @@
-# SIT <img src="https://github.com/lei-zhang/SIT/raw/master/network_demo.jpg" align="right" width="300px">
+# SIT <img src="https://github.com/lei-zhang/SIT/raw/master/network_demo.jpg" align="right" width="250px">
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
 [![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/SIT?color=brightgreen&logo=github)](https://github.com/lei-zhang/SIT)
