@@ -59,7 +59,6 @@ ___
 
 ## fMRI connectivity analyses
 * Figure 4C,G,I: [plot_connectivity_strength.m](code/fMRI/plot_connectivity_strength.m)
-* Figure 4D:
 
 ___
 
