@@ -19,6 +19,7 @@ ___
 * A **1.25-min #SciComm** video in lay English is available on [YouTube]() and [BiliBili]() (links to be updated).
 * A **1-hour talk** on this paper is available on [YouTube](https://youtu.be/PQe9bv07Qmc) and [BiliBili](https://www.bilibili.com/video/BV15K411n7eN/). The slides deck is available [here](presentation_zhang_gläscher_2020.pdf).
 * Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m04s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
+* A [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1296243279260983296?s=20) summarizing the main findings.
 * **Media coverage** (selection): [COSMOS](https://cosmosmagazine.com/health/body-and-mind/sometimes-we-need-to-learn-from-others/)
 ___
 
