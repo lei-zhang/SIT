@@ -19,7 +19,7 @@ ___
 * A **1.4-min #SciComm** video in lay English is available on [YouTube](https://youtu.be/EGUQ0jTno_c) and [bilibili](https://www.bilibili.com/video/BV1aC4y1t7dj/).
 * A **1-hour talk** on this paper is available on [YouTube](https://youtu.be/PQe9bv07Qmc#t=03m35s) and [bilibili](https://www.bilibili.com/video/BV15K411n7eN/). The slides deck is available [here](presentation_zhang_gläscher_2020.pdf).
 * Part of the **experimental setup** was previously covered by a European television channel [Arte Xenius](https://www.arte.tv/en/videos/RC-014038/xenius/) (in [German](https://www.youtube.com/watch?v=xWvLVdg3CeE#t=05m04s) and [French](https://www.youtube.com/watch?v=M-VEvlWEMJc#t=05m43s)).
-* A [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1296243279260983296?s=20) summarizing the main findings.
+* A [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1296243279260983296?s=20) is compiles to summarize the main findings.
 * **Media coverage** (selection): [COSMOS](https://cosmosmagazine.com/health/body-and-mind/sometimes-we-need-to-learn-from-others/), [UNIVIE](https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/when-learning-on-your-own-is-not-enough/), [UKE](https://www.uke.de/allgemein/presse/pressemitteilungen/detailseite_98176.html) (German), [APA.at](https://science.apa.at/rubrik/medizin_und_biotech/Wie_man_aus_Erfahrung_und_von_anderen_lernt/SCI_20200820_SCI39371351256046858) (German), [EurekAlert](https://www.eurekalert.org/pub_releases/2020-08/uov-wlo082020.php), [medicalxpress](https://medicalxpress.com/news/2020-08-neuroscientists-delineate-social-decision-making-human.html).
 ___
 
